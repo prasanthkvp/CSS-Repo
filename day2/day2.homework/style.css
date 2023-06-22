@@ -1,0 +1,37 @@
+
+.First_Name{ 
+    margin top: 20px;
+    margin left: 40px;
+    background: skyblue;}
+
+.Second_Name{
+
+         margin:0 auto;
+        border: solid 5px;
+        
+        
+    }
+    .Head{
+        background-color: aquamarine;
+    }
+    
+    #st{
+        color: blue;
+    }
+    .Head2{
+        background-color: skyblue;
+    }
+    .Hii{
+        border: solid 5px;
+        margin: 0% auto;
+    }
+    #one{ width: 800px;
+        
+
+    }
+    #two { width: 800px;
+        
+    }
+    .Four{
+        background-color: brown;
+    }

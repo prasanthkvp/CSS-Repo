@@ -1,0 +1,33 @@
+/* * {
+    background-color: brown;
+}
+
+
+.First_Name { 
+    border: gray;
+    color: black;
+    background-color: #3abc13;
+    margin: top 50px;
+    margin-left: 50;
+    margin-bottom: 500;
+    margin-right: 500;
+}
+
+.Secound_Name {
+    color: blue;
+    background-color: red;
+}
+
+.Third_Name {
+    color: greenyellow;
+    background-color: aquamarine;
+} */
+
+ /* div h1{
+    color: aqua;
+ } */
+div~h1
+ {
+    color: navajowhite;
+    background-color: blue;
+ }
