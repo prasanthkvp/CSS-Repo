@@ -1,0 +1,59 @@
+#main{
+    background-color: aquamarine;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 4%;
+}
+h1{
+    text-align: center;
+    background-color: rgb(233, 68, 68);
+}
+@media screen and (max-width: 768px) { 
+    #main{
+        background-color: blue;
+    }
+    h1{
+        background-color: blueviolet;
+    }
+    
+}
+@media only screen and (min-width:480px) and (max-width:850px) {
+    #main{
+        background-image: url("https://www.memestimes.com/memes-image-500-0-7607/vadivelu-comedy-dialogue-reaction-memes-img.jpeg");
+        background-repeat: no-repeat;
+        
+    }
+}
+@media screen and (min-width: 1024px){
+
+    p{
+        font-size: x-large;
+        color: white;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:1024px) {
+h1{
+    padding-left: 100px;
+}
+    
+}
+@media screen and (min-width: 800px){
+
+    p{
+        display: inline;
+        background-color: greenyellow;
+    }
+}
+@media screen and (max-width: 600px){
+
+    #main{
+      margin-left: 190px;
+    }
+}
+@media only screen and (min-width:600px) and (max-width:900px) {
+    #main{
+        height: 900px;
+        width: 900px;
+    }
+}

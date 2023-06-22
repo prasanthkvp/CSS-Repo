@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+     padding: 0%; 
+}
+#main{
+    background-color: aliceblue;
+    height: 100vh;
+    width: 100%;
+    background-size: cover; 
+}
+.one{
+    background-image: url("https://images.unsplash.com/photo-1686704223352-366336b32263?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMTh8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60");
+    height: 50%;
+    width: 45%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 20% ;
+    top: 10%;
+    
+    
+}
+p{
+    font-size: large;
+}
+h2{
+    font-size: xx-large;
+}
+.three{
+    border-radius: 10px;
+    background-color: orange;
+    font-size: large;
+    height: 40px;
+    width: 30%;
+}
+.two{
+    position: relative;
+    bottom: 40%;
+    left: 40%;
+    width: 50%;
+}
+.sub_one{
+    background-color: orangered;
+    height: 300px;
+    width: 350px;
+    text-align: center;
+}
+.sub_two{
+    background-color: orange;
+    height: 300px;
+    width: 350px;
+}
+.sub_three{
+    background-color: rgb(247, 196, 101);
+    height: 300px;
+    width: 350px;
+}
+#parent{
+    display: flex;
+    position: relative;
+    top:30px;
+    width: 150%;
+    right: 43%;
+    
+}
+.but{
+    margin-top: 30px;
+     border-radius:10px;
+     height: 35px;
+    width: 35%;
+    font-size: medium;
+     border: none;  
+   
+}
+.pra{
+    margin-top: 30px;
+    color: white;
+}
+.he{
+    color: white;
+}
+
+  .pra_one  {
+    margin-top: 30px;
+    color: white;
+  }
+
+
+.sub_two{
+    color: white;
+    text-align: center;
+}
+.but_one{
+    margin-top: 30px;
+    border-radius:10px;
+    height: 35px;
+   width: 35%;
+   font-size: medium;
+   border: none;
+}
+.sub_three{
+    color: white;
+    text-align: center;
+}
+.but_two{
+    margin-top: 30px;
+    border-radius:10px;
+    height: 35px;
+   width: 35%;
+   font-size: medium;
+   border: none;
+}
+.pra_two  {
+    margin-top: 30px;
+    color: white;
+  }
+    

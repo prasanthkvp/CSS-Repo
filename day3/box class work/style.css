@@ -1,0 +1,14 @@
+
+.one{
+    background-color: brown;
+    color: #2310d3;
+    border: 5px green;
+    height: auto;
+    width: auto;
+    /* padding: 50px 60px 50px 40px; */
+    padding: 50px 60px ;
+    /* text-align: justify ; */
+    font-size: xx-large;
+    margin: 40px 50px 45px 65px;
+    font-family: 'Kablammo', cursive;;
+}
